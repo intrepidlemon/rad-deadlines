@@ -10,7 +10,7 @@
   start: 2024-09-14
   end: 2024-09-18
   sub: IR
-  note: Abstract deadline TBD! Countdown is for conference start. One of the largest medical meetings in Europe and the second largest radiological meeting in the world.
+  note: One of the largest medical meetings in Europe and the second largest radiological meeting in the world.
 
 - title: Pendergrass
   full_name: Pendergrass
@@ -87,10 +87,10 @@
   year: 2025
   id: arrs2025
   link: https://www.arrs.org/
-  deadline: '2025-04-28 23:59:59'
+  deadline: '2025-04-26 23:59:59'
   timezone: America/Los_Angeles
   place: San Diego, California, USA
-  start: 2025-04-28
+  start: 2025-04-27
   end: 2025-05-01
   date: April 27-May 1, 2025
   sub: GEN
