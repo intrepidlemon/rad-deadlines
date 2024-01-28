@@ -10,6 +10,7 @@
   start: 2024-09-14
   end: 2024-09-18
   sub: IR
+  hindex: 41
   note: One of the largest medical meetings in Europe and the second largest radiological meeting in the world.
 
 - title: Pendergrass
@@ -52,6 +53,7 @@
   end: 2025-03-02
   date: Feburary 26-March 2, 2025
   sub: GEN
+  hindex: 98
   note: Abstract deadline TBD! Countdown is for conference start. One of the largest medical meetings in Europe and the second largest radiological meeting in the world.
 
 - title: AUR
@@ -66,6 +68,7 @@
   end: 2025-03-14
   sub: ACA
   date: March 11-14, 2025
+  hindex: 57
   note: Abstract deadline TBD! Countdown is for conference start. Includes over 1,300 academic radiologists, residents and fellows with an aim to encourage and represent academic radiology.
 
 - title: SIR
@@ -80,6 +83,7 @@
   end: 2025-04-02
   date: March 29-April 2, 2025
   sub: IR
+  hindex: 46
   note: Abstract deadline TBD! Countdown is for conference start. Largest gathering of interventional radiologists in North America.
 
 - title: ARRS
@@ -94,6 +98,7 @@
   end: 2025-05-01
   date: April 27-May 1, 2025
   sub: GEN
+  hindex: 67
   note: Abstract deadline TBD! Countdown is for conference start. First and oldest radiology society in the US, founded in 1900. Society Journal is AJR.
 
 - title: SIIM
@@ -108,10 +113,11 @@
   end: 2025-05-23
   date: May 21-23, 2025
   sub: INFO
+  hindex: 22
   note: Abstract deadline TBD! Countdown is for conference start. A global advisor and thought leader in imaging informatics, focusing on enterprise imaging, artificial intelligence , cybersecurity, infrastructure and standards
 
 - title: RSNA
-  full_name: Society for Interventional Oncology
+  full_name: Radiological Society of North America
   year: 2025
   id: rsna2025
   link: https://www.rsna.org/
@@ -122,5 +128,6 @@
   end: 2025-12-05
   date: December 1-5, 2024
   sub: GEN
+  hindex: 141
   note: Largest medical imaging forum in the world and attracts nearly 25,000 professional attendees from 116 countries.
 
