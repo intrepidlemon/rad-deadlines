@@ -1,13 +1,18 @@
 ---
-- name: General Radiology
+- name: General
   sub: GEN
   color: "#147df5"
-- name: Interventional Radiolgy
+- name: Interventional
   sub: IR
   color: "#ffd300"
-- name: Education
-  sub: EDU
+- name: Academic
+  sub: ACA
   color: "#deff0a"
-- name: Penn Radiology
+- name: Penn
   sub: PENN
   color: "#0aefff"
+- name: Informatics
+  sub: AI
+  color: "#0aff99"
+-
+

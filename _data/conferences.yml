@@ -1,15 +1,29 @@
-- title: SIR
-  full_name: Society for Interventional Radiology
-  year: 2025
-  id: sir2025
-  link: https://www.sirweb.org/
-  deadline: '2025-03-28 23:59:59'
-  timezone: America/New_York
-  place: Nashville, Tennessee, USA
-  start: 2025-03-29
-  end: 2025-04-02
+
+- title: CIRSE
+  full_name: Cardiovascular and Interventional Radiological Society of Europe
+  year: 2024
+  id: cirse2024
+  link: https://www.cirse.org
+  deadline: '2024-03-21 23:59:59'
+  timezone: Europe/Lisbon
+  place: Lisbon, Portugal
+  start: 2024-09-14
+  end: 2024-09-18
   sub: IR
-  note: Largest gathering of interventional radiologists in North America. Abstract deadline TBD! Countdown is for conference start.
+  note: Abstract deadline TBD! Countdown is for conference start. One of the largest medical meetings in Europe and the second largest radiological meeting in the world.
+
+- title: Pendergrass
+  full_name: Pendergrass
+  year: 2024
+  id: pendergrass2024
+  link: https://www.med.upenn.edu/pendergrass/
+  deadline: '2024-04-23 23:59:59'
+  timezone: America/New_York
+  place: Philadelphia, Pennsylvania, USA
+  start: 2024-06-14
+  end: 2024-06-14
+  sub: PENN
+  note: Started in 1976 as a way to mark the end of the academic year with a luminary speaker. It has expanded over the past several decades to include trainee talks and a poster session.
 
 - title: SIO
   full_name: Society for Interventional Oncology
@@ -22,22 +36,46 @@
   start: 2025-02-06
   end: 2025-02-10
   sub: IR
-  note: Premier event for interventional oncology professionals. Abstract deadline TBD! Countdown is for conference start.
+  note: Abstract deadline TBD! Countdown is for conference start. Premier event for interventional oncology professionals.
 
-
-- title: RSNA
-  full_name: Society for Interventional Oncology
+- title: ECR
+  full_name: European Congress of Radiology
   year: 2025
-  id: sio2025
-  link: https://www.rsna.org/
-  deadline: '2025-05-01 12:00:00'
-  timezone: America/Chicago
-  place: Chicago, Illnois, USA
-  start: 2025-12-01
-  end: 2025-12-05
+  id: ecr2025
+  link: https://www.myesr.org/congress/
+  deadline: '2025-02-25 23:59:59'
+  timezone: Europe/Vienna
+  place: Vienna, Austria
+  start: 2025-02-26
+  end: 2025-03-02
   sub: GEN
-  note: Largest medical imaging forum in the world and attracts nearly 25,000 professional attendees from 116 countries.
+  note: Abstract deadline TBD! Countdown is for conference start. One of the largest medical meetings in Europe and the second largest radiological meeting in the world.
 
+- title: AUR
+  full_name: Association of University Radiologists
+  year: 2025
+  id: aur2025
+  link: https://www.aur.org/
+  deadline: '2025-03-10 23:59:59'
+  timezone: America/Los_Angeles
+  place: Los Angeles, California, USA
+  start: 2025-03-11
+  end: 2025-03-14
+  sub: ACA
+  note: Abstract deadline TBD! Countdown is for conference start. Includes over 1,300 academic radiologists, residents and fellows with an aim to encourage and represent academic radiology.
+
+- title: SIR
+  full_name: Society for Interventional Radiology
+  year: 2025
+  id: sir2025
+  link: https://www.sirweb.org/
+  deadline: '2025-03-28 23:59:59'
+  timezone: America/New_York
+  place: Nashville, Tennessee, USA
+  start: 2025-03-29
+  end: 2025-04-02
+  sub: IR
+  note: Abstract deadline TBD! Countdown is for conference start. Largest gathering of interventional radiologists in North America.
 
 - title: ARRS
   full_name: American Roentgen Ray Society
@@ -50,4 +88,31 @@
   start: 2025-04-28
   end: 2025-05-01
   sub: GEN
-  note: First and oldest radiology society in the US, founded in 1900. Society Journal is AJR. Abstract deadline TBD! Countdown is for conference start.
+  note: Abstract deadline TBD! Countdown is for conference start. First and oldest radiology society in the US, founded in 1900. Society Journal is AJR.
+
+- title: SIIM
+  full_name: Society of Imaging Informatics in Medicine
+  year: 2025
+  id: siim2025
+  link: https://siim.org/
+  deadline: '2025-05-20 23:59:59'
+  timezone: America/Los_Angeles
+  place: Portland, Oregon, USA
+  start: 2025-05-21
+  end: 2025-05-23
+  sub: INFO
+  note: Abstract deadline TBD! Countdown is for conference start. A global advisor and thought leader in imaging informatics, focusing on enterprise imaging, artificial intelligence , cybersecurity, infrastructure and standards
+
+- title: RSNA
+  full_name: Society for Interventional Oncology
+  year: 2025
+  id: rsna2025
+  link: https://www.rsna.org/
+  deadline: '2025-05-01 12:00:00'
+  timezone: America/Chicago
+  place: Chicago, Illnois, USA
+  start: 2025-12-01
+  end: 2025-12-05
+  sub: GEN
+  note: Largest medical imaging forum in the world and attracts nearly 25,000 professional attendees from 116 countries.
+
