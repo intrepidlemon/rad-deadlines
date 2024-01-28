@@ -3,11 +3,10 @@
   year: 2025
   id: sir2025
   link: https://www.sirweb.org/
-  deadline: '2025-03-29 00:00:00'
+  deadline: '2025-03-28 23:59:59'
   timezone: America/New_York
   place: Nashville, Tennessee, USA
-  data: March 28 - April 2, 2025
   start: 2025-03-29
   end: 2025-04-02
   sub: SIR
-  note: Abstract deadline to be determined! Countdown is for conference start.
+  note: Abstract deadline TBD! Countdown is for conference start.
