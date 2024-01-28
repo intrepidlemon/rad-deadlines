@@ -22,7 +22,7 @@
   timezone: America/New_York
   place: Philadelphia, Pennsylvania, USA
   start: 2024-06-14
-  end: 2024-06-15
+  end: 2024-06-14
   date: June 14, 2024
   sub: PENN
   note: Started in 1976 as a way to mark the end of the academic year with a luminary speaker. It has expanded over the past several decades to include trainee talks and a poster session.
@@ -33,7 +33,7 @@
   id: sio2025
   link: https://www.sio-central.org/
   deadline: '2025-02-05 23:59:59'
-  timezone: America/Las_Vegas
+  timezone: America/Los_Angeles
   place: Las Vegas, Nevada, USA
   start: 2025-02-06
   end: 2025-02-10
