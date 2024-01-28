@@ -1,4 +1,3 @@
-
 - title: CIRSE
   full_name: Cardiovascular and Interventional Radiological Society of Europe
   year: 2024
@@ -7,6 +6,7 @@
   deadline: '2024-03-21 23:59:59'
   timezone: Europe/Lisbon
   place: Lisbon, Portugal
+  date: September 14-18, 2024
   start: 2024-09-14
   end: 2024-09-18
   sub: IR
@@ -22,6 +22,7 @@
   place: Philadelphia, Pennsylvania, USA
   start: 2024-06-14
   end: 2024-06-14
+  date: June 14, 2024
   sub: PENN
   note: Started in 1976 as a way to mark the end of the academic year with a luminary speaker. It has expanded over the past several decades to include trainee talks and a poster session.
 
@@ -35,6 +36,7 @@
   place: Las Vegas, Nevada, USA
   start: 2025-02-06
   end: 2025-02-10
+  date: Feburary 6-10, 2025
   sub: IR
   note: Abstract deadline TBD! Countdown is for conference start. Premier event for interventional oncology professionals.
 
@@ -48,6 +50,7 @@
   place: Vienna, Austria
   start: 2025-02-26
   end: 2025-03-02
+  date: Feburary 26-March 2, 2025
   sub: GEN
   note: Abstract deadline TBD! Countdown is for conference start. One of the largest medical meetings in Europe and the second largest radiological meeting in the world.
 
@@ -62,6 +65,7 @@
   start: 2025-03-11
   end: 2025-03-14
   sub: ACA
+  date: March 11-14, 2025
   note: Abstract deadline TBD! Countdown is for conference start. Includes over 1,300 academic radiologists, residents and fellows with an aim to encourage and represent academic radiology.
 
 - title: SIR
@@ -74,6 +78,7 @@
   place: Nashville, Tennessee, USA
   start: 2025-03-29
   end: 2025-04-02
+  date: March 29-April 2, 2025
   sub: IR
   note: Abstract deadline TBD! Countdown is for conference start. Largest gathering of interventional radiologists in North America.
 
@@ -87,6 +92,7 @@
   place: San Diego, California, USA
   start: 2025-04-28
   end: 2025-05-01
+  date: April 27-May 1, 2025
   sub: GEN
   note: Abstract deadline TBD! Countdown is for conference start. First and oldest radiology society in the US, founded in 1900. Society Journal is AJR.
 
@@ -100,6 +106,7 @@
   place: Portland, Oregon, USA
   start: 2025-05-21
   end: 2025-05-23
+  date: May 21-23, 2025
   sub: INFO
   note: Abstract deadline TBD! Countdown is for conference start. A global advisor and thought leader in imaging informatics, focusing on enterprise imaging, artificial intelligence , cybersecurity, infrastructure and standards
 
@@ -113,6 +120,7 @@
   place: Chicago, Illnois, USA
   start: 2025-12-01
   end: 2025-12-05
+  date: December 1-5, 2024
   sub: GEN
   note: Largest medical imaging forum in the world and attracts nearly 25,000 professional attendees from 116 countries.
 
