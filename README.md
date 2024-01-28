@@ -1,6 +1,6 @@
 ## Radiology Deadlines
 
-Countdown timers to keep track of a bunch of CV/NLP/ML/RO conference deadlines.
+Countdown timers to keep track of a bunch of radiology conferences
 
 adapted from aideadlin.es
 
