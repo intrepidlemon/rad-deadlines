@@ -1,13 +1,13 @@
-title: AI Conference Deadlines
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: Radiology Conference Deadlines
+description: Countdowns to top radiology conference deadlines
+author: Ianto Xi
 
-domain: "aideadlin.es"
+domain: "conf.tbar.how"
 baseurl: ""
 
 twitter_hashtag: machinelearning
-github_username: paperswithcode
-github_repo: ai-deadlines
+github_username: intrepidlemon
+github_repo: rad-deadlines
 
 markdown: kramdown
 ga_id:
