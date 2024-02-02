@@ -14,3 +14,9 @@
 - name: Informatics
   sub: INFO
   color: "#0aff99"
+- name: Breast
+  sub: BRE
+  color: "#580aff"
+- name: Body
+  sub: BOD
+  color: "#be0aff"

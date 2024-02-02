@@ -1,15 +1,6 @@
 
 // not used currently
 
-- name: Robotics
-  sub: RO
-  color: "#0aff99"
-- name: Speech/SigProc
-  sub: SP
-  color: "#580aff"
-- name: Data Mining
-  sub: DM
-  color: "#be0aff"
 - name: Automated Planning
   sub: AP
   color: "#a432a8"
